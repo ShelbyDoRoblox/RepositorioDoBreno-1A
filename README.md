@@ -9,4 +9,4 @@
     É o Ben 10</strong> </p>
  <img <div id="BLACK"></div>
  <audio controls><source src="Musicas/benio22.wav" type="audio/x-wav"</audio>
- 
+ <audio ><source src="musicas/benio22w.wav"controls autoplay type="audio/x-wav"</audio>
