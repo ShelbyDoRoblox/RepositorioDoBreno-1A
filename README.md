@@ -8,5 +8,5 @@
     Que bota pra quebrar
     É o Ben 10</strong> </p>
  <img <div id="BLACK"></div>
- <audio controls><source src="Downloads/benio22.mp3" type="audio/mp3"</audio>
+ <audio controls><source src="Downloads/benio22.wav" type="audio/x-wav"</audio>
  
